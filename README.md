@@ -1,0 +1,1 @@
+Employment Management System: Developed a system for CRUD operations using Java. Implemented features to add, view, update, and delete employee details, as well as view all employees. Ensured efficient management of employee records with a user-friendly interface.
